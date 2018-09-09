@@ -1,0 +1,8 @@
+D:\IMGProces\imgproc\imgproc\bin\imgproc.dll
+D:\IMGProces\imgproc\imgproc\bin\imgproc.pdb
+D:\IMGProces\imgproc\imgproc\bin\Microsoft.Web.Infrastructure.dll
+D:\IMGProces\imgproc\imgproc\bin\SoundInTheory.DynamicImage.dll
+D:\IMGProces\imgproc\imgproc\bin\WebActivatorEx.dll
+D:\IMGProces\imgproc\imgproc\obj\Debug\imgproc.csprojResolveAssemblyReference.cache
+D:\IMGProces\imgproc\imgproc\obj\Debug\imgproc.dll
+D:\IMGProces\imgproc\imgproc\obj\Debug\imgproc.pdb
